@@ -1,0 +1,26 @@
+.NavigationBar
+{
+    
+}
+nav
+{
+    height: 10%;
+    display: flex;
+    justify-content: space-around;
+    color: black;
+}
+.te
+{
+    background-color: rgb(105, 72, 79);
+    text-decoration: none;
+    color: rgb(21, 226, 73);
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+    border:2px solid rgb(161, 149, 149);
+}
+.te:hover
+{
+    background-color:white;
+    color: rgb(8, 121, 13);
+}
